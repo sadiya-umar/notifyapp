@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "700822833160",
+    "firebase_url": "https://medicare-notifications.firebaseio.com",
+    "project_id": "medicare-notifications",
+    "storage_bucket": "medicare-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700822833160:android:24e0bed6d8839a48fea9bd",
+        "android_client_info": {
+          "package_name": "ocm.example.notifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700822833160-a0f4ov0iqh8hurpffmb7tksnatermb84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADGx8k3GqjeM-q1r6RaId6YGRk_U3M8Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700822833160-a0f4ov0iqh8hurpffmb7tksnatermb84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
